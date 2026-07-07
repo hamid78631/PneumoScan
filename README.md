@@ -1,4 +1,4 @@
-# 🫁 PneumoScan AI
+# 🫁 PneumoScan 
 
 > Système d'aide au diagnostic médical par intelligence artificielle, avec explicabilité — détection de la pneumonie à partir de radiographies thoraciques.
 
